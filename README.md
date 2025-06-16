@@ -57,11 +57,9 @@ Po uruchomieniu wyświetli się menu wyboru:
 - `README.md` – dokumentacja
 - `phishing_detections_YYYYMMDD.json` – zapis wykrytych domen
 
-## Licencja
-
-Projekt udostępniany na licencji MIT. Możesz dowolnie modyfikować i wykorzystywać kod z zachowaniem informacji o autorze.
-
----
-
-Autor: **Adam Waśko**  
+Autorzy:
+**Adam Waśko (115986)**  
+**Szymon Świercz (119274)**  
+**Karolina Woch (119293)**  
+**Aleksandra Szymańska (120851)**
 Rok: 2025
