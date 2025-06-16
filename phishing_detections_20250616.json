@@ -1,0 +1,1382 @@
+[
+  {
+    "domain": "PayPal Production",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)10, CN=VeriSign Class 3 Secure Server CA - G3",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.380729"
+  },
+  {
+    "domain": "api-aa.beta-sandbox.paypal.com",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.391443"
+  },
+  {
+    "domain": "api-aa-3t.beta-sandbox.paypal.com",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.411638"
+  },
+  {
+    "domain": "api-aa-3t.sandbox.paypal.com",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.431808"
+  },
+  {
+    "domain": "api-3t.beta-sandbox.paypal.com",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.449345"
+  },
+  {
+    "domain": "www.paypal.com.mx",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.485268"
+  },
+  {
+    "domain": "m.paypal.com.au",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.524032"
+  },
+  {
+    "domain": "www.paypal.com.pt",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.563378"
+  },
+  {
+    "domain": "mobilepayments.paypal.com",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.615098"
+  },
+  {
+    "domain": "www.paypal.com.ar",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.666412"
+  },
+  {
+    "domain": "www.paypal.com.sa",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.715645"
+  },
+  {
+    "domain": "www.paypal.com.tw",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.760531"
+  },
+  {
+    "domain": "www.paypal.com.tr",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.798625"
+  },
+  {
+    "domain": "www.paypal.com.ve",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.840431"
+  },
+  {
+    "domain": "www.paypal.com.br",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:57.893303"
+  },
+  {
+    "domain": "www.paypal.com.au",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:58.029690"
+  },
+  {
+    "domain": "www.paypal.com.sg",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:58.091696"
+  },
+  {
+    "domain": "www.paypal.com.hk",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL CA",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": true,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Obecność TLD w subdomenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:50:58.124193"
+  },
+  {
+    "domain": "52891-AF-sso-prd-auth-bankofamerica-com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": false,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 1,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Zawiera 1 podejrzanych słów kluczowych",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.016134"
+  },
+  {
+    "domain": "authenticate.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 2,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Zawiera 2 podejrzanych słów kluczowych"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.020596"
+  },
+  {
+    "domain": "bofacapital-certs.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.039059"
+  },
+  {
+    "domain": "bofacapital-certs-iam.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.059480"
+  },
+  {
+    "domain": "bofacapital-certs-pa-tx.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.078729"
+  },
+  {
+    "domain": "bofacapital-certs-pa-va.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.096475"
+  },
+  {
+    "domain": "bofacapital-validate-iam.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.115647"
+  },
+  {
+    "domain": "bofacapital-validate-pa-tx.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.134622"
+  },
+  {
+    "domain": "bofacapital-validate-pa-va.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 30,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.152169"
+  },
+  {
+    "domain": "sso-prd-auth.bankofamerica.com",
+    "issuer": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 EV SSL CA - G3",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 1,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Zawiera 1 podejrzanych słów kluczowych",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.182558"
+  },
+  {
+    "domain": "secure-bankofamerica--login-com.tk",
+    "issuer": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+    "phishing_score": 60,
+    "phishing_likelihood_category": "podejrzana",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": false,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": true,
+      "suspicious_tld": true,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 2,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Wystawiono przez darmowe CA",
+      "Podejrzane TLD",
+      "Zawiera 2 podejrzanych słów kluczowych",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.204924"
+  },
+  {
+    "domain": "www.secure-bankofamerica--login-com.tk",
+    "issuer": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": false,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": true,
+      "suspicious_tld": true,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 2,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Wystawiono przez darmowe CA",
+      "Podejrzane TLD",
+      "Zawiera 2 podejrzanych słów kluczowych",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.234260"
+  },
+  {
+    "domain": "secure-bankofamerica--login-com.ml",
+    "issuer": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+    "phishing_score": 60,
+    "phishing_likelihood_category": "podejrzana",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": false,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": true,
+      "suspicious_tld": true,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 2,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Wystawiono przez darmowe CA",
+      "Podejrzane TLD",
+      "Zawiera 2 podejrzanych słów kluczowych",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.259966"
+  },
+  {
+    "domain": "www.secure-bankofamerica--login-com.ml",
+    "issuer": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+    "phishing_score": 45,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": false,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": true,
+      "suspicious_tld": true,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 2,
+      "high_shannon_entropy": false,
+      "hyphens_in_subdomain": true
+    },
+    "reasons": [
+      "Wystawiono przez darmowe CA",
+      "Podejrzane TLD",
+      "Zawiera 2 podejrzanych słów kluczowych",
+      "Wiele myślników w domenie"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:03.306084"
+  },
+  {
+    "domain": "JPMorgan Chase",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)10, CN=VeriSign Class 3 International Server CA - G3",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.845483"
+  },
+  {
+    "domain": "Fox Chase Bank",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.866587"
+  },
+  {
+    "domain": "Closson Chase Vineyards",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.889200"
+  },
+  {
+    "domain": "Chase Brass and Copper Company Inc.",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Secure Server CA - G2",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.914289"
+  },
+  {
+    "domain": "JPMorgan Chase and Co.",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL SGC CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.938191"
+  },
+  {
+    "domain": "Chase Paymentech Solutions, LLC",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL SGC CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.966377"
+  },
+  {
+    "domain": "Chase Paymentech Solutions, LLC.",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL SGC CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:16.998124"
+  },
+  {
+    "domain": "JPMorgan Chase and Co",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)06, CN=VeriSign Class 3 Extended Validation SSL SGC CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.041339"
+  },
+  {
+    "domain": "Boyle & Chase, Inc.",
+    "issuer": "C=ZA, O=Thawte Consulting (Pty) Ltd., CN=Thawte SGC CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.065098"
+  },
+  {
+    "domain": "Chase Resources Ltd.",
+    "issuer": "C=US, O=GeoTrust Inc, OU=See www.geotrust.com/resources/cps (c)06, CN=GeoTrust Extended Validation SSL CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.086125"
+  },
+  {
+    "domain": "JPMorgan Chase Bank National Association",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.115324"
+  },
+  {
+    "domain": "Chase Collegiate School",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.143981"
+  },
+  {
+    "domain": "AWD Chase de Vere Consulting Limited",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.168853"
+  },
+  {
+    "domain": "Chase de Vere Employee Benefits",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.193202"
+  },
+  {
+    "domain": "CHASE BANK KENYA LIMITED",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.211081"
+  },
+  {
+    "domain": "Chase Software Systems",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.239715"
+  },
+  {
+    "domain": "The Wild Goose Chase",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.282741"
+  },
+  {
+    "domain": "Paston Chase Limited",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.310679"
+  },
+  {
+    "domain": "Chase Organics (Great Britain) Ltd",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.333903"
+  },
+  {
+    "domain": "Chase Credit Systems",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.457137"
+  },
+  {
+    "domain": "Chase Products Co.",
+    "issuer": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.498171"
+  },
+  {
+    "domain": "Chevy Chase Trust Company",
+    "issuer": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.537661"
+  },
+  {
+    "domain": "Claire Chase, Inc.",
+    "issuer": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.593085"
+  },
+  {
+    "domain": "Chase International Marketing, INC",
+    "issuer": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.646139"
+  },
+  {
+    "domain": "Ultimate Chase, Inc.",
+    "issuer": "C=US, O=Equifax, OU=Equifax Secure Certificate Authority",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.666432"
+  },
+  {
+    "domain": "Chase Marketing",
+    "issuer": "C=US, O=Equifax, OU=Equifax Secure Certificate Authority",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.694812"
+  },
+  {
+    "domain": "Fox Chase Cancer Center",
+    "issuer": "C=US, O=\"VeriSign, Inc.\", OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)05, CN=VeriSign Class 3 Secure Server CA",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.719123"
+  },
+  {
+    "domain": "load-payments.chase.com",
+    "issuer": "O=VeriSign Trust Network, OU=\"VeriSign, Inc.\", OU=VeriSign International Server CA - Class 3, OU=www.verisign.com/CPS Incorp.by Ref. LIABILITY LTD.(c)97 VeriSign",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.753791"
+  },
+  {
+    "domain": "mobilebankingq6.chase.com",
+    "issuer": "O=VeriSign Trust Network, OU=\"VeriSign, Inc.\", OU=VeriSign International Server CA - Class 3, OU=www.verisign.com/CPS Incorp.by Ref. LIABILITY LTD.(c)97 VeriSign",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.789306"
+  },
+  {
+    "domain": "JP Morgan Chase",
+    "issuer": "O=VeriSign Trust Network, OU=\"VeriSign, Inc.\", OU=VeriSign International Server CA - Class 3, OU=www.verisign.com/CPS Incorp.by Ref. LIABILITY LTD.(c)97 VeriSign",
+    "phishing_score": 35,
+    "phishing_likelihood_category": "prawdopodobna",
+    "is_likely_phishing": true,
+    "features": {
+      "small_levenshtein_distance": true,
+      "deeply_nested_subdomains": false,
+      "issued_from_free_ca": false,
+      "suspicious_tld": false,
+      "inner_tld_in_subdomain": false,
+      "suspicious_keywords_count": 0,
+      "high_shannon_entropy": true,
+      "hyphens_in_subdomain": false
+    },
+    "reasons": [
+      "Podobieństwo do nazw znanych marek",
+      "Wysoka entropia (prawdopodobnie generowana automatycznie)"
+    ],
+    "analysis_timestamp": "2025-06-16T19:51:17.819236"
+  }
+]
